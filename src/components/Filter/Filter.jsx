@@ -7,7 +7,6 @@ export const Filter = ({ items, onChange }) => {
                <StyledTitle>There are no contacts yet!</StyledTitle>
                </>)
      }
-     
      return (
           <>
                <StyledTitle>Find contacts by name</StyledTitle>
